@@ -35,6 +35,7 @@ const Header = () => {
                 onClick={() => history.push('/')}
               >
                 <MovieIcon />
+                Movie data
               </IconButton>
             </Grid>
             <Grid xs={4} item>
